@@ -1,10 +1,8 @@
-package bootstrap;
+package com.example.domain;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import com.example.domain.Author;
-import com.example.domain.Book;
 import com.example.domain.repositories.AuthorRepository;
 import com.example.domain.repositories.BookRepository;
 
